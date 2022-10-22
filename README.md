@@ -7,7 +7,7 @@ Harry Wang
 
 ## Dataset
 
-https://www.kaggle.com/datasets/harrywang/housing
+[California Housing Dataset](https://www.kaggle.com/datasets/harrywang/housing)
 
 ## Presentation
 
@@ -15,6 +15,6 @@ https://www.kaggle.com/datasets/harrywang/housing
 
 ## Data App
 
-https://harrywang-world-cities-app-cities-9k1r4v.streamlitapp.com/
+[Streamlit Demo](https://harrywang-world-cities-app-cities-9k1r4v.streamlitapp.com/)
 
 
